@@ -18,3 +18,12 @@ public:
 	}
 
 }; 
+
+class binaryTree
+{
+public:
+	Node* ROOT;
+
+	binaryTree()
+
+};
