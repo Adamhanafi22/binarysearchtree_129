@@ -101,3 +101,11 @@ public:
 	}
 
 };
+
+int main() {
+	binaryTree obj;
+	while (true)
+	{
+
+	}
+};
